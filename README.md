@@ -36,5 +36,7 @@ Run the script with the following options to customize its behavior:
 
 ### Example Usage
 
+Patch names are in a file called "MySynthBank.txt"
+
 ```bash
 python preset_recorder.py -b "MySynthBank" -ai 1 -ac "3-4" -mi 0 -mc 2 -n 5 -N "D#2" -d 10
