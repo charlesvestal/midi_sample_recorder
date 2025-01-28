@@ -2,6 +2,8 @@
 
 A simple Python tool to automate the recording of synthesizer presets. Easily capture, process, and organize your presets into high-quality WAV files with embedded loop points.
 
+Give it a list of Patch Names in a text file, and it will record each one by one, incrementing an external synth via midi Program Changes. You end up with a set of one-shots for each program on the synth, ready to load into your favorite sampler.
+
 ## Features
 
 - **Automated Recording**: Record multiple presets sequentially with minimal setup.
