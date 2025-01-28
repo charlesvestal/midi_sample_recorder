@@ -1,0 +1,128 @@
+BritePno
+FM Piano
+El Grand
+St Piano
+HnkyTonk
+Mono Pno
+LoFi Pno
+St EP1
+Chor EP1
+Mono EP1
+LoFi EP1
+Wah EP1
+TremoEP1
+Old EP
+MelloEP1
+St EP2
+Chor EP2
+Mono EP2
+LoFi EP2
+Wah EP2
+TremoEP2
+St DxEP
+ChorDxEP
+BrteDxEP
+Clavi 
+WahClav1
+WahClav2
+DigiClav
+Organ1
+Organz
+Organ3
+Organ4
+HousOrg1
+ThinOrgn
+RockOrgt
+DriveOrg
+Dirty Org
+Mrtianor
+ChrohOrt
+ChrchOr2
+ReedOrgn
+Acordion
+Harmnica
+TangoAcd
+Vibes1
+Vibes2
+Vibes3
+Marimba
+Xylophon
+FngrBas1
+FngrBas2
+FIngFnB1
+MuteFngB
+CompFngB
+Subsonic
+DistBass
+WahBass1
+WahBass2
+PickBas1
+PickBas2
+MutePkBa
+SlapBas1
+SlapBas2
+Fretles1
+Fretles2
+ChoFrles
+FInFrles
+AcoBass1
+AcoBass2
+BaGlisnd
+CleanGt1
+CleanGt2
+ChorsGt1
+FlangeGt
+Wah Gtr1
+Wah Gtr2
+Mute Gtr
+Jazz Gtr
+OctJzGtr
+Ovrdrive
+Dist Gtr
+WahFazG1
+WahFazG2
+PowrChd1
+GtrHarmo
+SteelGtr
+12StrGtr
+NylonGt1
+NylonGt2
+P Scrape
+FretNoiz
+DpChorEP
+MelloEP2
+Digi EP1
+Digi EP2
+Digi EP3
+Mono EP3
+Chor EP3
+Mono EP4
+Chor EP4
+MonEP3 4
+TrmEP3 4
+OldSkPno
+ClickEP
+SweetEP
+RotrOrgn
+RockOrg2
+HousOrg2
+SurfOrgn
+SynthOrg
+RockOrg3
+JazzOrg1
+ChrchOr3
+DigiOrg1
+DigiOrg2
+JazzOrg2
+GarageOr
+FngrBas3
+FIngFnB2
+SlapBas3
+SlapBas4
+AcoBass3
+CleanGt3
+ChorsGt2
+ChMuteGt
+DistMute
+PowrChd2
+BrightAG
